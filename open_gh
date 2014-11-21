@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cfx run --binary-args="-url github.com/lazywei/gsm"
